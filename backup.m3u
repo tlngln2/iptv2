@@ -1,3 +1,4 @@
+#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml.gz"
 #EXTINF:-1 tvg-id=CCTV1,CCTV1
 http://hlsbkmgsplive.miguvideo.com/migu/kailu/cctv1hd265/57/20191230/index.m3u8?&encrypt=
 #EXTINF:-1 tvg-id=CCTV2,CCTV2
