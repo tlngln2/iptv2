@@ -103,6 +103,7 @@ CHC家庭影院,http://m.liuxiaobo.top:8888/udp/239.69.1.243:11100#http://[2409:
 好莱坞电影,http://198.16.100.90:8278/hollywoodmovies_twn/playlist.m3u8?tid=m39bfcd99239617992917&ct=17874&tsum=774ffa7546c934dc27e743c5bbb454d3#http://50.7.238.114:8278/hollywoodmovies_twn/playlist.m3u8?tid=MA8A4005638840056388&ct=18392&tsum=a1f1517d4ea64fd01267905f21d83859
 TVB星河,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxKhNUGBfO_GdATzBMAV6h6g/ts#http://198.16.100.90:8278/Xinhe/playlist.m3u8?tid=MCFC2010151520101515&ct=19249&tsum=a8fd0cb32ef01d8472773a604402a683
 BRICS,https://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/mono.m3u8
+翡翠台,http://m.iptv807.com/?act=play&tid=gt&id=1#http://r.jdshipin.com/62WM7#http://r.jdshipin.com/n90gt#http://r.jdshipin.com/thuYX
 民视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8#http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=156389#http://50.7.238.114:8278/ftvnew_taiwan/playlist.m3u8?tid=MA7A6968320369683203&ct=19249&tsum=e3b040434ed43f12a738964a100a0e59#http://protv.fun/play/live.php?mac=00:1A:79:50:63:9E&stream=156389&extension=ts
 耀才財經台,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 家庭理财,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000139
